@@ -35,7 +35,7 @@ export default function App() {
           url="https://www.digitalocean.com/docs/app-platform"
         />
         <Button
-          text="DigitalOcean Dashboard"
+          text="Fx Analytica Dashboard"
           url="https://cloud.digitalocean.com/apps"
         />
       </div>
